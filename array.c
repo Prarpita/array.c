@@ -31,7 +31,7 @@ int main() {
 }*/
 
 
-#include <stdio.h>
+/*#include <stdio.h>
 
 int main() {
 
@@ -55,5 +55,5 @@ int main() {
   printf("Average = %.2lf", average);
 
   return 0;
-}
+}*/
 
